@@ -20,7 +20,7 @@ In this project I have created a landing page with a pure CSS responsive hamburg
 
 ### Links
 
-- Live Site URL: [Pure CSS Hamburger Menu Overlay](https://zoxabbasi.github.io/css-hamburger-menu-overlay/)
+- Live Site URL: [Pure CSS Hamburger Menu Overlay](https://zoxabbasi.github.io/css_hamburger_menu_overlay/)
 
 ## My process
 
